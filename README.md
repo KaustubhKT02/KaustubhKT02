@@ -1,7 +1,7 @@
 ![logo](https://github.com/KaustubhKT02/KaustubhKT02/blob/main/396.png)
 <h1 align="center">Hi 👋, I'm Kaustubh Tripathi</h1>
 <h3 align="center">A passionate Web Development</h3>
-<img align="right" alt="coding" width="400" scr="https://github.com/KaustubhKT02/Kaustubh_Tripathi/blob/main/giphy.gif">
+<img align="right" alt="coding" width="400" scr="https://github.com/KaustubhKT02/KaustubhKT02/blob/main/programmer-1653351_1280.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhkt02&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhkt02" /> </p>
 
