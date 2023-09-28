@@ -1,4 +1,4 @@
-![logo](https://github.com/KaustubhKT02/KaustubhKT02/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo](https://github.com/KaustubhKT02/KaustubhKT02/blob/main/396.png)
 <h1 align="center">Hi 👋, I'm Kaustubh Tripathi</h1>
 <h3 align="center">A passionate Web Development</h3>
 <img align="right" alt="coding" width="400" scr="https://github.com/KaustubhKT02/Kaustubh_Tripathi/blob/main/giphy.gif">
